@@ -1,0 +1,90 @@
+.bgimg{
+  position: absolute;
+}
+
+body{
+  background-image: url("AlcherStream/bg.png");
+  background-repeat: no-repeat;
+  background-size:100% 400px;
+}
+
+.bg-img{
+height: 450px;
+width: 100%;
+}
+
+.profile-pic{
+  width: 30px;
+  margin-right: 50px;
+}
+
+.header1{
+  text-align: center;
+}
+
+.searchop{
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 2px solid white;
+  width: 400px;
+}
+
+.navbar-brand{
+  margin-left: 100px;
+}
+
+.h1-text{
+  color: white;
+  font-weight: 900;
+  font-size: 50px;
+  text-align: center;
+  padding-top: 40px;
+  font-family: 'Poppins', sans-serif;
+  -webkit-text-fill-color: transparent;
+  -webkit-text-stroke-width: 2px;
+
+}
+
+
+.GS-button{
+  background-color: #e93b81;
+  color: white;
+  border: #e93b81;
+  font-size: 16px;
+  border-radius: 5px;
+  padding: 10px 40px;
+  margin-top: 20px;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.GS-button:hover{
+  background-color: #fc92e3;
+  color: white;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.bbh{
+  display: block;
+  padding-left: 10px;
+}
+
+.bbh img{
+  width: 280px;
+  height: 200px;
+  border-radius: 15px;
+}
+
+.footer{
+  background-color: grey;
+  align-items: center;
+  text-align: center;
+  font-family: 'Gugi', cursive;
+  margin-bottom: 0;
+  padding: 30px;
+}
+
+.bi{
+  padding: 40px;
+}
